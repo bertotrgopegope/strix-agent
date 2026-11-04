@@ -1,11 +1,11 @@
-```markdown
+
 <div align="center">
   
   <img src="f9f734ed4335b5720e5b5b3811422355.jpg" alt="Strix Agent Banner" width="100%">
 
   <br><br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&height=80&lines=STRIX+AGENT;Advanced+Vulnerability+Scanner;Author:+MR+ROBERTO" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=800&height=80&lines=STRIX+AGENT;Advanced+Vulnerability+Scanner;Author:+MR+ROBERTO" alt="Typing SVG" />
 
   <br>
 
